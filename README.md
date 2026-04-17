@@ -15,6 +15,7 @@ covaciuandrei21@gmail.com
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 
 <br />
 
